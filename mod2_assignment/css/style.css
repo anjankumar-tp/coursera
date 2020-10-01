@@ -22,8 +22,8 @@ section>h2 {
     float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
-    margin: 0;
     width: 230px;
+    margin: 0px;
     text-align: center;
     font-style: Times;
     font-size: 24px;
@@ -32,17 +32,17 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
+section.css>h2 {
     background-color: #76b8db;
 }
 
-section.fubini>h2 {
+section.html>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
-    color: #e2e2e2;
-    background-color: #10328a;
+section.javascript>h2 {
+    
+    background-color: #10678a;
 }
 
 section>p {
